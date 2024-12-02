@@ -17,42 +17,42 @@
  <br /><br />
  
 <div align="center">
-  <img src="https://profile-counter.glitch.me/KntMods/count.svg" />
+  <img src="https://profile-counter.glitch.me/xilogs/count.svg" />
 
   <img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
   <img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
   
   <h2> <strong> ⚙️ Technologies and Skills </strong><img src="./assets/borderseparator.gif"/></h2><br>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KntMods&theme=radical&langs_count=10&card_width=540&layout=compact" alt="Most used languages"> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xilogs&theme=radical&langs_count=10&card_width=540&layout=compact" alt="Most used languages"> <br>
   <h2></h2>
   <h3> <strong> Languages, Frameworks, and Tools </strong><img src="./assets/borderseparator.gif"/></h3><br>
   <img src="https://skillicons.dev/icons?i=git,github,nodejs,webpack,vite,html,css,tailwind,js,ts,react,nextjs,firebase,mongodb,mysql,svg,vscode,postman,netlify,vercel" alt="skills logos" /> <br>
   <h2></h2>
    
   <h2><strong> 🏆 My Github Stats </strong><img src="./assets/borderseparator.gif"/></h2><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=KntMods&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><h2></h2><br>
-  <img src="https://streak-stats.demolab.com?user=KntMods&theme=radical" width="49%" alt="streaks graph" />
-  <img src="https://github-readme-stats.vercel.app/api?username=KntMods&theme=radical&show_icons=true&count_private=true" width="49%" alt="stats graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=xilogs&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><h2></h2><br>
+  <img src="https://streak-stats.demolab.com?user=xilogs&theme=radical" width="49%" alt="streaks graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=xilogs&theme=radical&show_icons=true&count_private=true" width="49%" alt="stats graph" />
 </div> <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KntMods&custom_title=Kanetav's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true" alt="Kanetav's Github Activity Graph" width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xilogs&custom_title=Kanetav's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true" alt="Kanetav's Github Activity Graph" width="100%">
 
 <br />
 
 
-![Snake Commits](https://raw.githubusercontent.com/KntMods/KntMods/output/github-contribution-grid-snake-dark.svg)
+![Snake Commits](https://raw.githubusercontent.com/xilogs/xilogs/output/github-contribution-grid-snake-dark.svg)
 
  <br /><br />
   <h2><strong> 📄 Recent Activity </strong><img src="./assets/borderseparator.gif"/></h2><br>
   </div>
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [KntMods/KntMods](https://github.com/KntMods/KntMods)<br>
-2. ⬆️ Pushed 1 commit(s) to [KntMods/KntMods](https://github.com/KntMods/KntMods)<br>
-3. ⬆️ Pushed 1 commit(s) to [KntMods/KntMods](https://github.com/KntMods/KntMods)<br>
-4. ⬆️ Pushed 1 commit(s) to [KntMods/KntMods](https://github.com/KntMods/KntMods)<br>
-5. ⬆️ Pushed 1 commit(s) to [KntMods/KntMods](https://github.com/KntMods/KntMods)<br>
+1. ⬆️ Pushed 1 commit(s) to [xilogs/xilogs](https://github.com/xilogs/xilogs)<br>
+2. ⬆️ Pushed 1 commit(s) to [xilogs/xilogs](https://github.com/xilogs/xilogs)<br>
+3. ⬆️ Pushed 1 commit(s) to [xilogs/xilogs](https://github.com/xilogs/xilogs)<br>
+4. ⬆️ Pushed 1 commit(s) to [xilogs/xilogs](https://github.com/xilogs/xilogs)<br>
+5. ⬆️ Pushed 1 commit(s) to [xilogs/xilogs](https://github.com/xilogs/xilogs)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
