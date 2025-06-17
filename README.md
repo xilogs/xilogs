@@ -48,12 +48,13 @@
   <h2><strong> 📄 Recent Activity </strong><img src="./assets/borderseparator.gif"/></h2><br>
   </div>
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ZOAMDILAN/Ronime](https://github.com/ZOAMDILAN/Ronime)<br>
+1. ❗️ Opened issue [#2](https://github.com/ozipoetra/animez-astro/issues/2) in [ozipoetra/animez-astro](https://github.com/ozipoetra/animez-astro)<br>
+2. ⭐ Starred [ZOAMDILAN/Ronime](https://github.com/ZOAMDILAN/Ronime)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, June 17th, 2025, 9:34:22 AM
+Last Updated: Tuesday, June 17th, 2025, 9:48:40 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
